@@ -15,12 +15,13 @@
     width: 375px;
 }
 .main__img{
-    width: 375px;
-    margin-left: -0px;
+    width: 405px;
+    margin-left: 0px;
 }
 .text__title{
+    width: 375px;
     font-size: 30px;
-    margin-left: -100px;
+    margin-left: -0px;
 }
 .text__txt{
     font-size: 23px;
