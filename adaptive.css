@@ -32,16 +32,17 @@
 }
 .box__inner{
     width: 375px;
+    margin-left: 15px;
 }
 .btn{
-    margin-left: 35px;
+    margin-left: 49px;
 }
 .information__inner{
     width: 375px;
-    margin-left: -0px;
+    margin-left: 12px;
 }
 .footer__txt{
     width: 375px;
-    margin-left: 0px;
+    margin-left: 10px;
 }
     }
