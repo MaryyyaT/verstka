@@ -4,6 +4,7 @@
 }
 .container{
     max-width: 1200px;
+    margin: auto;
 }
 .header__title{
     font-size: 100px;
