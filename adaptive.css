@@ -1,0 +1,46 @@
+@media only screen and (max-width : 768px){
+.container{
+    width: 375px;
+}
+.header{
+    width: 375px;
+}
+.header__title{
+    font-size: 60px;
+}
+.main{
+    width: 375px;
+}
+.photo__inner{
+    width: 375px;
+}
+.main__img{
+    width: 375px;
+    margin-left: -0px;
+}
+.text__title{
+    font-size: 30px;
+    margin-left: -100px;
+}
+.text__txt{
+    font-size: 23px;
+}
+.advertisting__inner{
+    width: 375px;
+    margin-left: -40px;
+}
+.box__inner{
+    width: 375px;
+}
+.btn{
+    margin-left: 35px;
+}
+.information__inner{
+    width: 375px;
+    margin-left: -0px;
+}
+.footer__txt{
+    width: 375px;
+    margin-left: 0px;
+}
+    }
